@@ -11,4 +11,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/olszewskikacper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olszewskikacper" height="30" width="40" /></a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,py,flask,postman,linux,git)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,py,flask,postman,linux,git)](https://skillicons.dev)
