@@ -9,6 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/olszewskikacper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olszewskikacper" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/olszewskikacper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olszewskikacper" height="30" width="40" /></a></p>
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,express,py,flask,postman,linux,git)](https://skillicons.dev)
+
