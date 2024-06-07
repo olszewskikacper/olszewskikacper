@@ -3,8 +3,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=olszewskikacper&label=Profile%20views&color=0e75b6&style=flat" alt="olszewskikacper" /> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
-
 - 📫 How to reach me **olszews.kacper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
